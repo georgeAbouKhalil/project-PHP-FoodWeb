@@ -1,0 +1,100 @@
+*{
+    font-family: sans-serif;
+}
+.flipkart-navbar {
+    background-color: #F5F5F5 ;
+    color: #FFFFFF;
+	padding:1% 1%;
+}
+.text_center{
+   position: relative;
+   left: 50%;
+}
+.text-center2{
+  position: relative;
+  left: 85%;
+}
+a{
+	color: #FF9A5A;
+    text-decoration: none;
+}
+.textCenter{
+    text-align: center;
+}
+.center2{
+    position: relative;
+    top: 8vh;
+}
+.center{
+	padding: 0.5%;
+}
+.line{
+	margin: 0% 1%;
+	position: relative;
+	left: 20%;
+	font-weight: bold;
+}
+.lineButton{
+  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  border-radius: 12px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  position: relative;
+  left: 70vh;
+
+}
+.lineButton:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .lineButton:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+  }
+  
+  .lineButton:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+  }
+  .btn1{
+    position: relative;
+    left: 96.3vh;
+    border-radius: 50px;
+    font-family: sans-serif;
+    background: rgb(255, 196, 57);
+    color: black;
+    border: none;
+    font-weight: bold;
+    width: 150px;
+  }
+  .btn1:hover{
+    background: rgb(255, 196, 57);
+  }
+  .paypal_logo{
+    width: 20px;
+    height: 20px;
+  }
+  .pay{
+    color: rgb(16, 57, 131)
+  }
+  .pal{
+    color: rgb(0, 156, 222);
+  }
+
+
+/* CSS */
+
+

@@ -1,0 +1,92 @@
+body{
+    background: #0097e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+form{
+    width: 500px;
+    border: 2px solid black;
+    padding: 30px;
+    background: #fff;
+    border-radius: 15px;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+input{
+    display: block;
+    border: 2px solid #ccc;
+    width: 95%;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+label{
+    color: #888;
+    font-size: 18px;
+    padding: 10px;
+}
+
+button{
+    float: right;
+    background: #555;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: none;
+}
+button:hover{
+    opacity: .7;
+    background-color: #0097e6;
+    font-weight: bolder;
+    
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+.text-center{
+    text-align: center;
+}
+.error{
+    background: #F2DEDE;
+    color: #A94442;
+    padding: 10px 10px;
+    width: 95%;
+    border-radius: 5px;
+}
+a{
+    color: #0097e6;
+    text-decoration: none;
+}
+a:visited{
+    color: #0097e6;
+}
+.checkbox{
+    position: relative;
+    top: -5vh;
+    width: 58%;
+}
+.checkbox input{
+    position: relative;
+    top: 3.7vh;
+    background: black;   
+}
+
+.center-image{
+    position: relative;
+    left: 19%;
+}
