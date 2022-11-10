@@ -13,3 +13,4 @@ Pizza Store Email Messages Forgot Password. Client side and admin side to go to 
 ![Screenshot 2022-03-05 120818](https://user-images.githubusercontent.com/88317294/156879088-9727e77d-5e45-421e-bcea-49bda36d487e.png)
 ![Screenshot 2022-03-05 120907](https://user-images.githubusercontent.com/88317294/156879089-0976ce29-845e-4732-87e3-97f3de93f937.png)
 ![Screenshot 2022-03-05 120922](https://user-images.githubusercontent.com/88317294/156879092-c721ac32-2989-4685-acdf-5ad1c4055371.png)
+ 
